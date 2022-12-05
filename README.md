@@ -15,3 +15,7 @@ The following ML methods are trained and evaluated:
 - LSTM (Long Short Term Memory)
 
 
+*The Google Trends data is available on:* https://trends.google.com/trends/?geo=MV
+*Tourism Arrivals Data is available on:* https://database.mma.gov.mv/
+
+
